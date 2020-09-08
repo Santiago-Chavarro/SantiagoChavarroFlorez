@@ -1,6 +1,9 @@
-  
 body{
-    background: url(Fondo.jpg);
+    margin: 0;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;   
+    background: linear-gradient(#060439, #42DBBA, #98EC2C);
 }
 h1{
     color: #999C9E;
@@ -10,6 +13,6 @@ h1{
     text-align: center;
 }
 p{
+    text-align: center;
     color: #8989A9;
-    text-align: center
 }
