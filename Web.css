@@ -1,0 +1,14 @@
+body{
+    background: #060439;
+}
+h1{
+    color: #999C9E;
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-family: Times;
+    text-align: center;
+}
+p{
+    color: #8989A9;
+    text-align: center
+}
